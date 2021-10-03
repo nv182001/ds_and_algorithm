@@ -1,5 +1,5 @@
                       
-                    //   ****************nearest greater left***************//
+                    //   ****************nearest greater right***************//
                       
                       
 #include <bits/stdc++.h>
@@ -36,7 +36,7 @@ int main()
 	return 0;
 }
 
-                  //****************nearest greater right***************//
+                  //****************nearest greater left***************//
                  
                  
 #include <bits/stdc++.h>
